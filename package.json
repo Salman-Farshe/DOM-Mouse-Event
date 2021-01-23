@@ -1,0 +1,11 @@
+{
+  "name": "project-54-mouse-over-out-event",
+  "version": "1.0.0",
+  "description": "it's a mouse event practice part",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass sass/style.scss css/style.css"
+  },
+  "author": "Salman Farshe",
+  "license": "ISC"
+}
